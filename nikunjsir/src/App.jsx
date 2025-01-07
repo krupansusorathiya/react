@@ -1,11 +1,12 @@
 import React from 'react'
+import Problem2 from './day6/exercise2'
 
 
 
 function App() {
   return (
-    <Component1 />
-   
+    
+    <Problem2/>
   
   )
 }
