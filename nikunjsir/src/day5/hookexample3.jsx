@@ -40,7 +40,3 @@ function Stateexample3() {
 }
 
 export default Stateexample3;
-
-
-
-
