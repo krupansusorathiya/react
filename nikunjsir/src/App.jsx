@@ -1,11 +1,13 @@
 import React from "react";
-import Imagechanger from "./day8/Imagechanger";
+import RegisterForm from "./day9/exersice";
 function App() {
   return (
   <>
-    <Imagechanger/>
+    <RegisterForm/>
+    
     </>
   );
 }
+
 
 export default App;
